@@ -1,0 +1,11 @@
+{
+  "name": "ol3-build",
+  "version": "3.5.0",
+  "description": "OpenLayers 3",
+  "main": [
+    "build/ol.js",
+    "css/ol.css"
+  ],
+  "ignore": [
+  ]
+}
